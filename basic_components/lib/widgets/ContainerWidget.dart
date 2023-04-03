@@ -7,6 +7,7 @@ class ContainerWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      appBar: AppBar(title: const Text('Container'),),
       body: Container(
         height: 150.0,
         width: 250.0,
