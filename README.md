@@ -64,3 +64,10 @@ El desarrollo de aplicaciones multiplataforma es solo una de las muchas solucion
     - Pub.dev
     - Widget of Week
     - Zapp.run
+
+### Formato de Conventional Commits
+
+- feat(feature-name): mensage del commit
+- fix(feature-name): mensage del commit
+- docs(feature-name): mensage del commit
+- breaking(feature-name): mensage del commit
