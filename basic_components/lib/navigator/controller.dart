@@ -1,5 +1,6 @@
 import 'package:basic_components/pages/main_page.dart';
 import 'package:basic_components/widgets/AppBarWidget.dart';
+import 'package:basic_components/widgets/ColumAndRowWidget.dart';
 import 'package:basic_components/widgets/ContainerWidget.dart';
 import 'package:basic_components/widgets/PaddingWidget.dart';
 import 'package:basic_components/widgets/ScaffoldWidget.dart';
@@ -16,6 +17,8 @@ class Controller {
       '/AppBarWidget': (context) => const AppBarWidget(),
       '/ScaffoldWidget': (context) => const ScaffoldWidget(),
       '/PaddingWidget': (context) => const PaddingWidget(),
+      '/ColumAndRowWidget': (context) => const ColumAndRowWidget(),
+
 
 
     };
